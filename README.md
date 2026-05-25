@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 こんにちは/Hello
 
-<!--
-**LideRito/LideRito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student at **Waseda University**, researching how to protect creators from unauthorized AI training.
 
-Here are some ideas to get you started:
+## 🔬 Current Research
+**Watermarking against AIGC** — Embedding adversarial perturbations to prevent AI models from learning from copyrighted creative works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+`Python` `PyTorch` `Deep Learning` `C++` `Java` `JavaScript/HTML/CSS`
+
+## 🎮 Side Project
+**Indie JRPG dev** with RPGMaker · 1,200+ followers across communities
+
+## 🏆 Achievements
+### Awards
+- 🥇 **National First Prize × 2** — Inter-Collegiate Innovation Competition (Multimedia Security Research: Deepfake & AIGC Detection)
+
+### Intellectual Property
+- 📜 **Invention Patent (Published)** — Co-inventor, Multimedia Security related (China)
+- 💾 **Software Copyright Registration** — Lead developer (Co-authored, China)
+
+---
+*"Build creative things, protect what creators build."*
